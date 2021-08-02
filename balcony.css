@@ -1,0 +1,13 @@
+.header3{
+    width:100%;
+    font-size:35px;
+    margin:0px;
+    font-weight:bold;
+}
+body{
+    background-image: url("https://i.postimg.cc/mg0XR8RM/a221e9c7aa9c6234a2acaa191ca44991.jpg");
+
+}
+canvas{
+    border: 5px solid black;
+}

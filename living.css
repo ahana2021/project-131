@@ -1,0 +1,12 @@
+.header2{
+    width:100%;
+    font-size:35px;
+    margin:0px;
+    font-weight:bold;
+}
+body{
+    background-image: url("https://i.postimg.cc/vT4yk0bj/pngtree-cute-cat-colorful-pattern-png-image-3660288.jpg");
+}
+canvas{
+    border: 5px solid black;
+}
